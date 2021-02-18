@@ -3,7 +3,7 @@ Credit card clustering analysis of https://www.kaggle.com/arjunbhasin2013/ccdata
 
 ## How to Contribute
 - Build the environment with `conda env create --file environment.yaml --force`
-- navigate to the directory using `cd credit-card-clustering`
+- Navigate to the directory using `cd credit-card-clustering`
 - Activate the environment with `conda activate credit-card-clustering`
 - Launch either `jupyter lab` or `jupyter notebook`
 
